@@ -72,7 +72,7 @@ iframe {
    height: 400px;
    background-image: url('img/avatar.jpeg');
    background-size: cover;
-   display: block;
+   display: inline-block;
    border-radius: 200px;
   -webkit-border-radius: 200px;
   -moz-border-radius: 200px;
@@ -85,7 +85,7 @@ iframe {
    height: 400px;
    background-image: url('img/robson_avatar.jpeg');
    background-size: cover;
-   display: block;
+   display: inline-block;
    border-radius: 200px;
   -webkit-border-radius: 200px;
   -moz-border-radius: 200px;
@@ -96,9 +96,9 @@ iframe {
 .img-circular-cristiano{
    width: 400px;
    height: 400px;
-   background-image: url('img/criatiano_avatar.jpeg');
+   background-image: url('img/cristiano_avatar.jpeg');
    background-size: cover;
-   display: block;
+   display: inline-block;
    border-radius: 200px;
   -webkit-border-radius: 200px;
   -moz-border-radius: 200px;
