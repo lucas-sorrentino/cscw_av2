@@ -1,0 +1,91 @@
+html, body, #page-one, #page-two, #page-three, #page-four {
+  height: auto;
+  min-height: 100vh;
+}
+
+#page-one, #page-two, #page-three, #page-four {
+  padding-top: 2em;
+}
+
+#mainNav {
+  background-color: #668AE4;
+  color: #ddd;
+  line-height: 4em;
+  padding: 0 1em;
+  position: fixed;
+  top: 0em;
+  width: 100%;
+}
+
+#mainNav a, #mainNav a:link, #mainNav a:visited, #mainNav a:hover, #mainNav a:active {
+  color: #eee;
+  text-decoration: none;
+  display: inline-block;
+  padding: 0 1em;
+}
+#mainNav a:hover {
+  color: #4861A2;
+}
+
+.title {
+  font-size: 3em;
+  padding-top: 1em;
+  text-align: center;
+}
+
+.subtitle {
+  font-size: 2em;
+  text-align: center;
+}
+
+.content {
+  text-align: center;
+}
+
+.video {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+iframe {
+    width: 1120px;
+    height: 630px;
+    margin: 0 auto;
+    background-color: #777;
+    display: block;
+}
+
+.content.mod-autor {
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.img-circular{
+   width: 400px;
+   height: 400px;
+   background-image: url('img/avatar.jpeg');
+   background-size: cover;
+   display: block;
+   border-radius: 200px;
+  -webkit-border-radius: 200px;
+  -moz-border-radius: 200px;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+#page-one {
+  background-color: #fff;
+}
+
+#page-two {
+  background-color: #ccc;
+}
+
+#page-three {
+  background-color: #fff;
+}
+
+#page-four {
+  background-color: #888;
+}
