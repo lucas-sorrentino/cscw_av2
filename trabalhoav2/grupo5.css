@@ -47,6 +47,12 @@ html, body, #page-one, #page-two, #page-three, #page-four {
   margin-right: auto;
 }
 
+.comentarios {
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 5em;
+}
+
 iframe {
     width: 1120px;
     height: 630px;
