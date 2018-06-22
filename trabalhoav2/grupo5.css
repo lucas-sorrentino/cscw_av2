@@ -107,7 +107,9 @@ iframe {
 }
 
 #page-one {
-  background-color: #fff;
+  background-image: url('img/hangout_laptop.png');
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 #page-two {
