@@ -67,10 +67,36 @@ iframe {
   margin-right: auto;
 }
 
-.img-circular{
+.img-circular-lucas{
    width: 400px;
    height: 400px;
    background-image: url('img/avatar.jpeg');
+   background-size: cover;
+   display: block;
+   border-radius: 200px;
+  -webkit-border-radius: 200px;
+  -moz-border-radius: 200px;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+.img-circular-robson{
+   width: 400px;
+   height: 400px;
+   background-image: url('img/robson_avatar.jpeg');
+   background-size: cover;
+   display: block;
+   border-radius: 200px;
+  -webkit-border-radius: 200px;
+  -moz-border-radius: 200px;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+.img-circular-cristiano{
+   width: 400px;
+   height: 400px;
+   background-image: url('img/criatiano_avatar.jpeg');
    background-size: cover;
    display: block;
    border-radius: 200px;
